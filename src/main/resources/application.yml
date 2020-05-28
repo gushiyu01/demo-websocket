@@ -1,0 +1,10 @@
+server:
+  port: 10000
+
+thymeleaf:
+  cache: false
+  prefix: classpath:/templates/
+  suffix: .html
+  mode: HTML5
+  encoding: UTF-8
+  context-type: text/html
